@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_1='/home/maxinmin/.vim_runtime/vimrcs'
+let g:netrw_dirhist_2='/home/maxinmin/develop/situation'
+let g:netrw_dirhist_3='/home/maxinmin/develop/situation/env/lib'
+let g:netrw_dirhist_4='/home/maxinmin/develop/situation/env/lib/python2.7/site-packages/ntlm'
+let g:netrw_dirhist_5='/home/maxinmin/work'
